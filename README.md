@@ -52,6 +52,11 @@ Tests for the new cursus (from october 2019)
 
 ---
 
+## Minitalk
+* [minitalk-Tester](https://github.com/ThibaudM13/minitalk-Tester) - ThibaudM13
+
+---
+
 ## Minishell
 
 * [Minishell-tester](https://github.com/solaldunckel/minishell-tester) - solaldunckel
